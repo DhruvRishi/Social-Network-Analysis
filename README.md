@@ -61,12 +61,6 @@ Jupyter Notebook | Development environment
 ✅ Influencers found | Nodes with highest centrality scores  
 ✅ Visualizations | Colored network graph indicating clusters  
 
-### Sample Output Graph
-
-> *(Add your screenshots here)*  
-Example:  
-`outputs/community_graph.png`
-
 ---
 
 ## 📦 How to Run
